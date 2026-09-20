@@ -1,4 +1,3 @@
-
 public class TopPerformer {
 
     static String findMinMaxSpread(int[] scores) {

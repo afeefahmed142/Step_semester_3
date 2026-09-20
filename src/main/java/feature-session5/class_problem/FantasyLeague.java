@@ -1,4 +1,5 @@
 import java.util.Arrays;
+
 public class FantasyLeague {
 
     static class Player implements Comparable<Player> {
